@@ -1,0 +1,5 @@
+Hello, I am using VSCode.
+I'm learing git and gitbub.
+
+
+This is my simple git repo
