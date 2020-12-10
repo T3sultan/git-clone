@@ -1,5 +1,6 @@
 Hello, I am using VSCode.
 I'm learing git and gitbub.
 
+I have commited vim
 
 This is my simple git repo
